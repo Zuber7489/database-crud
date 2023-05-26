@@ -1,0 +1,20 @@
+{
+    "posts": [
+      {
+        "name": "farhan",
+        "address": "multani",
+        "age": 2323,
+        "id": 8
+      },
+      {
+        "name": "Rahul",
+        "address": "Khan",
+        "age": 23233434,
+        "id": 10
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
