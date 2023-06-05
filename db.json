@@ -1,28 +1,26 @@
 {
-    "posts": [
-      {
-        "name": "farhan",
-        "address": "multani",
-        "age": 2323,
-        "id": 8
-      },
-      {
-        "name": "Rahul",
-        "address": "Khan",
-        "age": 23233434,
-        "id": 10
-      }
-    ],
-    "data": [{
-        "name": "farhan",
-        "email": "multani@gmail.com",
-        "id": 1
-      },{
-        "name": "Juned",
-        "email": "Sheikh23@gmail.com",
-        "id": 2
-      }],
-    "profile": {
-      "name": "typicode"
+  "sign": [
+    {
+      "id": 1,
+      "name": "Zuber",
+      "email": "zuber.shaikh.45@gmail.com",
+      "password": "6789"
+    },
+    {
+      "name": "zuber",
+      "email": "zuber@gmail.com",
+      "password": "122",
+      "id": 2
+    },
+    {
+      "name": "zuber",
+      "email": "zuber@gmail.com",
+      "password": "3434",
+      "id": 3
     }
+  
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
